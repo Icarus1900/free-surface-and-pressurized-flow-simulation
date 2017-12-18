@@ -1,1 +1,2 @@
 This is a programme simulating the transition between free-surface flow and pressurized flow.
+It contains two canals and one inverted siphon, one canal is at the upstream of the inverted siphon and the other one is at the downstream of it.
